@@ -1,0 +1,14 @@
+# Scratch files
+04-DATA-AND-SOURCES/scratch/
+
+# Cron output (regenerated each cycle)
+07-AUDIT/cron-output/
+
+# Auto-approve suggestion files (regenerated each cycle)
+07-AUDIT/top3-*.md
+
+# OS files
+.DS_Store
+*.swp
+*.swo
+*~
