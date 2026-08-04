@@ -18,6 +18,7 @@ try:
     jobs = data['jobs']
     workstream_ids = [
         '25b1b7a9d17f',  # CJ-TH-01: Tabung Haji RCI Parliamentary Impact Watch
+        # CJ-TH-02 (2069ba3a2d4a) is this script-only git sync job — listed in export but runs after
     ]
     ws_jobs = [j for j in jobs if j.get('id') in workstream_ids]
     export = {
