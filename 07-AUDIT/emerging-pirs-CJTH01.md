@@ -1,62 +1,62 @@
 # EMERGING PIRS FOR NEXT CYCLE (AUTO-APPROVED)
-**Generated:** 2026-08-05 18:42 MYT
-**Cycle:** CJ-TH-01 Pre-Debate Phase (6 days to Aug 11 sitting)
+**Generated:** 2026-08-06 07:03 MYT
+**Cycle:** CJ-TH-01 Pre-Debate Phase (5 days to Aug 11 sitting)
 **Director Approval:** AUTO-APPROVED — these PIRs are pre-approved for the next collection cycle. Treat with the same collection priority as the 10 core PIRs.
 
-These 3 PIRs are genuinely NEW intelligence gaps that emerged from this cycle's findings. They do NOT overlap with the existing 10 core PIRs (PIR-TH-01 through PIR-TH-10) or the 3 emerging PIRs from the previous cycle (recovery plan fiscal-sustainability, temporal accountability framing, MACC task force scrutiny).
+These 3 PIRs are genuinely NEW intelligence gaps that emerged from this cycle's findings. They do NOT overlap with the existing 10 core PIRs (PIR-TH-01 through PIR-TH-10) or the 3 emerging PIRs from the previous cycle (PKR National Congress as post-debate mechanism, current political-appointment accountability, BN-PN electoral cooperation as constraint).
 
 ---
 
-### Emerging PIR E01: Zakat/Syariah-Status of TH Deposits as a Religious-Framing Escalation Vector
-**Intelligence Gap:** We do not know whether any sitting MP will raise the zakat/syariah-status of Tabung Haji depositors' savings at the Aug 11 debate. This cycle, Rafizi Ramli (NOT a sitting MP — vacated Pandan 18 May) publicly continued to question "status zakat pendeposit TH" (Sinar Harian, Aug 5, 6:12pm). This introduces a religious-finance narrative dimension — whether depositors' savings are correctly classified for zakat purposes under syariah — that connects to depositor sentiment and could escalate religious framing at the debate. No existing PIR covers this: PIR-TH-09 covers hajj affordability/subsidies/deposit requirements (not zakat classification); PIR-TH-07 covers hibah transparency (not zakat status); PIR-TH-10 covers narrative shaping broadly but the zakat/syariah-classification dimension is a specific, new religious-framing vector. If a sitting MP picks up Rafizi's zakat-status question, it could shift the debate from fiscal/governance framing into religious-authority framing — a potential RED narrative escalation.
-**Parliamentary Focus:** Determines whether any of the 222 sitting MPs — particularly PAS/PN MPs with Islamic credentials, or PH/Amanah MPs with syariah-finance expertise — will raise the zakat/syariah-status of TH deposits at the Aug 11 debate. Identifies MPs who frame the RCI findings through a religious-finance lens vs. a fiscal-governance lens.
-**Priority:** High — Rafizi (high-profile figure) has already planted the narrative seed; PAS/PN MPs have strong incentive to escalate religious framing; the Aug 11 debate is the primary opportunity; if unmonitored, a religious-framing escalation could emerge untracked.
+### Emerging PIR E01: Identity and Party Composition of the 35-40 MPs Registered to Debate the RCI Report
+**Intelligence Gap:** We do not know WHICH of the 222 sitting MPs are among the 35-40 who have expressed readiness to debate the RCI report at the Aug 11 special sitting. This cycle, Fahmi Fadzil (Lembah Pantai, PKR, Communications Minister) confirmed the number — "35 hingga 40 Ahli Parlimen menyatakan kesediaan" — across multiple outlets (Malay Mail, Berita Harian, Utusan, Kosmo, all Aug 5). But NO MP names have been released. We don't know which parties, coalitions, or constituencies these MPs represent, or what questions they plan to raise. This is a critical pre-debate intelligence gap: the identity of debate participants determines which PIRs will be addressed on the floor. Our current tracker captures only 11 MPs who have made public statements — but up to 29 additional MPs may have registered to speak without any public positioning. These silent registrants could introduce entirely new lines of inquiry not covered by any existing PIR. No existing PIR covers the identity and composition of the debate participant list.
+**Parliamentary Focus:** Directly relevant to the 222 sitting MPs — identifies which specific MPs have registered to debate, their party/coalition affiliation, and their constituency type (high-depositor vs. urban vs. East Malaysia). Determines party composition of the debate (PH vs. PN vs. BN vs. GPS/GRS vs. MUDA). Identifies which MPs from previously silent categories (GPS, GRS, WARISAN, PH backbenchers) have registered to speak. Also identifies whether any of the 11 tracked MPs are among the 35-40, and whether new MPs not yet tracked have registered.
+**Priority:** High — the debate is in 5 days; the participant list determines the entire intelligence landscape for debate day; without it, we cannot predict which PIRs will be addressed or by whom. The list may be released by the Speaker's office or party whips before Aug 11.
 **Essential Elements of Information:**
-1. Which sitting MPs (if any) raise the zakat/syariah-status of TH depositors at or before the Aug 11 debate
-2. Which sitting MPs frame RCI findings through a religious-finance/syariah lens vs. a fiscal-governance lens
-3. Whether any PAS/PN MP uses the zakat-status question to escalate religious-authority framing
-4. Whether any Amanah/PH MP with syariah-finance expertise counters or supports the zakat-status framing
-5. Whether the zakat-status narrative connects to depositor-sentiment exploitation in high-depositor constituencies
+1. The names and constituencies of the 35-40 MPs who have registered to debate
+2. The party/coalition composition of the registered MPs (how many PH, PN, BN, GPS, GRS, etc.)
+3. Whether any previously silent MPs (GPS, GRS, WARISAN, PAC members) are among the registrants
+4. Whether any of the 11 tracked MPs are confirmed registrants
+5. Whether any MP has publicly declared their intended debate topic or line of inquiry
 **Search Queries:**
-1. "Tabung Haji" zakat OR syariah status pendeposit Ahli Parlimen Ogos 2026
-2. "Tabung Haji" RCI zakat simpanan OR deposit Ahli Parlimen PAS OR Amanah 2026
-3. "status zakat" "Tabung Haji" Ahli Parlimen perbahasan OR debat Ogos 2026
-**Source Finding That Triggered This PIR:** Sinar Harian (Aug 5, 6:12pm, https://www.sinarharian.com.my/terkini) — "RCI Tabung Haji: Rafizi terus persoal status zakat pendeposit TH." Rafizi is a non-MP, but his framing introduces a religious-finance dimension no sitting MP has yet engaged.
+1. "35" OR "40" "Ahli Parlimen" bahas RCI Tabung Haji nama OR senarai OR list Ogos 2026
+2. Tabung Haji RCI debate MP registered speaker list parliament August 11 2026
+3. "Sidang Khas" "Dewan Rakyat" RCI Tabung Haji "Ahli Parlimen" nama OR daftar OR register Ogos 2026
+**Source Finding That Triggered This PIR:** Malay Mail (Aug 5, https://www.malaymail.com/news/malaysia/2026/08/05/fahmi-up-to-40-mps-ready-to-debate-tabung-haji-rci-report/230323) — Fahmi Fadzil: "It is expected that 35 to 40 Members of Parliament (MPs) have expressed their interest to debate the issue." Number confirmed; identities unknown.
 
 ---
 
-### Emerging PIR E02: Pre-Debate Coalition Briefing/Caucus Coordination and Bloc Discipline
-**Intelligence Gap:** We do not know which coalitions are running internal pre-debate briefings, caucuses, or whip instructions to coordinate their Aug 11 positions, and whether this produces bloc discipline or exposes internal fissures. This cycle, The Star (Aug 5) reported "BN to hold briefing on declassified Tabung Haji RCI report" — the first evidence of formal coalition-level position coordination. PIR-TH-10 covers "party/coalition position formation" as a narrative dimension, but it does NOT cover the internal COORDINATION MECHANICS (briefings, caucuses, whip instructions, pre-agreed positions) that determine whether the debate produces coordinated bloc positions or fragmented individual statements. The BN briefing is the trigger; whether PH, PN, GPS, GRS, and Warisan run parallel coordination is unknown. Internal coordination is where fissures are either papered over or exposed BEFORE they surface publicly in the debate.
-**Parliamentary Focus:** Determines which of the 222 sitting MPs are subject to pre-debate coalition coordination (briefings, whip instructions) and which are free to speak independently. Identifies coalitions that have pre-agreed positions vs. those leaving positions to individual MPs. This directly affects whether the Aug 11 debate produces coherent bloc positions or fragmented statements that reveal internal divisions.
-**Priority:** High — the Aug 11 debate is 6 days away; coalition coordination is happening NOW (BN confirmed); the coordination mechanism determines debate structure; if unmonitored, bloc positions and fissures will only be visible after the debate begins.
+### Emerging PIR E02: Ministerial Response Architecture — Who Answers MP Questions When the Presenting Minister Is a Non-MP Senator?
+**Intelligence Gap:** We do not know who will respond to MP questions during the Aug 11 special sitting, given that the Religious Affairs Minister presenting the RCI report — Dr Zulkifli Hasan — is a Senator (Dewan Negara), not a sitting MP. This cycle, multiple sources (NST Jul 30, FMT Aug 1, Sinar Daily Aug 1) confirmed Zulkifli will present the report and that TH Act amendments are underway under his ministry. But Senators cannot be directly questioned by MPs in the Dewan Rakyat. This creates a structural accountability gap: a non-MP Senator presents the findings, 222 MPs question, but who answers? Will PM Anwar respond? Will the Finance Minister (who oversees TH's financial recovery)? Will the Minister in PM's Dept (Law) address enforcement? No existing PIR covers the ministerial response architecture — PIR-TH-06 covers legislative amendments (what provisions), not who answers questions about them. This gap means the debate's accountability effectiveness depends on which minister(s) step forward to respond, and whether MPs will accept a Senator's presentation without direct ministerial Q&A.
+**Parliamentary Focus:** Determines whether the 222 sitting MPs can effectively hold the government accountable during the debate. If only a Senator presents and no MP-minister responds, the debate becomes a one-way speech exercise rather than accountability. Also identifies which sitting MP-ministers (e.g., Fahmi Fadzil as Communications Minister, the Finance Minister) will field questions on specific PIR areas (enforcement, financial resilience, legislative reform). Relevant to whether MPs will challenge the structural gap of a Senator presenting to the Dewan Rakyat.
+**Priority:** High — the debate is in 5 days; the response architecture determines whether the sitting produces real accountability or political theater; the structural gap of a Senator presenting is a parliamentary precedent that affects all future RCI debates.
 **Essential Elements of Information:**
-1. Which coalitions (BN confirmed; PH? PN? GPS? GRS? Warisan?) are holding pre-debate briefings or caucuses on the RCI
-2. Who leads each coalition's briefing (party president? whip? shadow minister?)
-3. Whether any coalition issues whip instructions (mandatory voting/speaking position) for the Aug 11 debate
-4. Whether pre-agreed positions differ from individual MP positions already on record (e.g., does BN's briefing reconcile Zahid's cross-era expansion with Ismail Sabri's "nothing to hide"?)
-5. Whether any coalition's briefing exposes internal fissures (e.g., PH briefing reconciling Amanah's "unity of ummah" critique with PM's line)
+1. Whether PM Anwar or any MP-minister has confirmed they will respond to MP questions during the sitting
+2. Whether any MP has raised the structural concern of a Senator presenting to the Dewan Rakyat
+3. Whether the Speaker has ruled on how Q&A will be conducted (speeches only vs. ministerial responses)
+4. Which sitting MP-ministers are prepared to field questions on enforcement (PIR-TH-02), financial resilience (PIR-TH-04), and legislative reform (PIR-TH-06)
+5. Whether the government's preparation includes a designated ministerial response team
 **Search Queries:**
-1. "Barisan Nasional" OR BN taklimat OR briefing laporan RCI Tabung Haji Ahli Parlimen Ogos 2026
-2. "Pakatan Harapan" OR PN OR GPS briefing OR taklimat RCI Tabung Haji whip OR arahan Ogos 2026
-3. Tabung Haji RCI parti briefing posisi OR pendirian Ahli Parlimen sebelum sidang khas Ogos 2026
-**Source Finding That Triggered This PIR:** The Star Nation page (Aug 5, https://www.thestar.com.my/news/nation) — "BN to hold briefing on declassified Tabung Haji RCI report." First evidence of formal coalition-level pre-debate coordination.
+1. Zulkifli Hasan Senator RCI Tabung Haji Dewan Rakyat respons OR jawab OR jawapan Ahli Parlimen Ogos 2026
+2. "Sidang Khas" RCI Tabung Haji menteri respons OR jawab soalan OR persidangan Ogos 11 2026
+3. Anwar OR "Finance Minister" respond RCI Tabung Haji debate parliament questions August 11 2026
+**Source Finding That Triggered This PIR:** NST (Jul 30, https://www.nst.com.my/news/nation/2026/07/1500368/amendments-tabung-haji-act-works-following-rci-report) — Zulkifli Hasan (Senator, Religious Affairs Minister) confirmed as presenter; "declined to specify which provisions of the Act would be amended." FMT (Aug 1) — Zulkifli confirmed stakeholder engagement on amendments. His Senator status confirmed by Parliament profile.
 
 ---
 
-### Emerging PIR E03: Debate Participation Mechanics — Speaking-Slot Allocation Among ~40 MPs
-**Intelligence Gap:** We do not know which of the 222 sitting MPs have secured the ~40 speaking slots for the Aug 11 special sitting, how the 40 were selected (coalition quotas? seniority? relevance to portfolio?), and which MPs/coalitions are being excluded. This cycle, Sinar Harian (Aug 5, 5:31pm) reported Fahmi Fadzil confirming the sitting will run "tanpa waktu rehat" (without a break) with "40 ahli Parlimen berbahas" (40 MPs debating). With only ~40 of 222 MPs speaking, 182 MPs will NOT speak — the selection mechanism determines whose positions are heard and whose are silenced. No existing PIR covers debate participation mechanics: PIR-TH-E01 (previous cycle, now retired) covered formal instruments filed, not speaking-slot allocation; PIR-TH-10 covers narrative shaping but not the procedural access mechanism. Understanding who gets to speak is essential to predicting the debate's content and which positions will dominate.
-**Parliamentary Focus:** Directly relevant to the 222 sitting MPs: which ~40 will speak, how they were selected, and which 182 are excluded. Identifies whether speaking slots are allocated by coalition quotas (which would privilege large coalitions), by relevance (which would privilege PAC/fiscal-portfolio MPs), or by seniority. Determines whether key MP categories (PAC chair, high-depositor-constituency MPs, East Malaysia MPs) secured slots or are excluded.
-**Priority:** Medium — the format is now confirmed (no break, ~40 MPs); the selection mechanism is a pre-debate process that determines debate content; 6 days out, the list may not yet be final but coalition quota negotiations are likely underway. Distinct from the 10 core PIRs (none cover procedural participation access).
+### Emerging PIR E03: The 4-Year Declassification Delay — Will Any MP Demand Accountability for the Gap Between RCI Completion (Aug 2022) and Public Release (Jul 2026)?
+**Intelligence Gap:** We do not know whether any sitting MP will demand accountability for the nearly 4-year gap between the RCI report's completion (submitted August 30, 2022, per Wikipedia) and its declassification (July 29, 2026). This cycle, Transparency International Malaysia (Dr Raymon Ram, NON-MP) explicitly raised this question in The Star (Jul 30): "why the public, depositors, and Parliament had to wait until July 2026 to access findings reportedly completed and presented to the Yang di-Pertuan Agong in August 2022 — a gap of nearly 4 years." TI-Malaysia also recommended a "declassification-by-default policy for future commissions of inquiry." But no sitting MP has picked up this framing. This is distinct from PIR-TH-10 (which covers Ahmad Fadhli's "why only now releasing" narrative) — that question targets the government's timing motivation (political), while the declassification-delay gap is about institutional transparency reform (structural). It's also distinct from PIR-TH-06 (which covers TH Act amendments) — a declassification-by-default policy would require reform of the Commissions of Enquiry Act 1950 or a Freedom of Information law, not the Tabung Haji Act. If any MP demands a declassification-by-default policy or an inquiry into who delayed the release, it opens a new accountability dimension beyond TH governance.
+**Parliamentary Focus:** Determines whether any of the 222 sitting MPs will frame the RCI's impact as a transparency/institutional-reform issue (not just a TH governance issue). Identifies MPs who connect the RCI delay to broader reform of the Official Secrets Act, Commissions of Enquiry Act, or FOI legislation. Also relevant to whether any MP will demand an explanation from the government on who held the report for 4 years and why — this could target both the previous administration (Ismail Sabri's government, 2021-2022) and the current one (Anwar's government, 2022-2026).
+**Priority:** Medium — TI-Malaysia has planted the framing but no MP has picked it up; the Aug 11 debate is the primary opportunity for an MP to raise it; if raised, it expands the RCI's political impact beyond TH to institutional transparency reform. Distinct from all existing PIRs.
 **Essential Elements of Information:**
-1. The list of ~40 MPs allocated speaking slots for the Aug 11 sitting (once published)
-2. How speaking slots are allocated — coalition quotas, Speaker discretion, portfolio relevance, seniority
-3. Which key MP categories secured slots (PAC chair Mas Ermieyati? high-depositor-constituency MPs? East Malaysia MPs?) and which are excluded
-4. Speaking-time allocation per MP (equal time? coalition-weighted?)
-5. Whether any MP formally requested a speaking slot and was denied
+1. Whether any sitting MP has questioned the 4-year gap between RCI completion and declassification
+2. Whether any MP has proposed a declassification-by-default policy for future RCIs
+3. Whether any MP connects the delay to the previous administration (Ismail Sabri, 2021-2022) or current administration (Anwar, 2022-2026)
+4. Whether any MP proposes reform of the Commissions of Enquiry Act 1950 or FOI legislation in connection with the RCI
+5. Whether the Speaker or any MP raises the delay as a parliamentary privilege issue
 **Search Queries:**
-1. "Tabung Haji" RCI sidang khas 40 ahli Parlimen senarai OR list pembahas Ogos 2026
-2. "Tabung Haji" RCI perbahasan masa OR slot Ahli Parlimen pembahagian OR allocation Ogos 2026
-3. "sidang khas" Tabung Haji "tanpa waktu rehat" Ahli Parlimen bilang OR 40 Ogos 2026
-**Source Finding That Triggered This PIR:** Sinar Harian (Aug 5, 5:31pm, https://www.sinarharian.com.my/terkini) — Fahmi Fadzil confirmed "Sidang khas berlangsung tanpa waktu rehat, 40 ahli Parlimen berbahas." First confirmation of the participation scope (~40 of 222 MPs).
+1. "RCI Tabung Haji" "4 tahun" OR "four years" delay OR kelewatan declassify OR nyahklasifikasi Ahli Parlimen Ogos 2026
+2. "declassification" OR "nyahklasifikasi" policy RCI Ahli Parlimen demand OR gesa reform August 2026
+3. "Laporan RCI" siap 2022 dilepaskan 2026 Ahli Parlimen persoal OR soal OR kelewatan Ogos 2026
+**Source Finding That Triggered This PIR:** The Star (Jul 30, https://www.thestar.com.my/news/nation/2026/07/30/govt-urged-to-act-on-tabung-haji-rci-recommendations) — TI-Malaysia's Dr Raymon Ram: "why the public, depositors, and Parliament had to wait until July 2026 to access findings reportedly completed and presented to the Yang di-Pertuan Agong in August 2022 — a gap of nearly 4 years." Wikipedia (https://en.wikipedia.org/wiki/Royal_Commission_of_Inquiry_into_Tabung_Haji) confirms report submitted Aug 30, 2022; declassified Jul 29, 2026.
 
 ---
