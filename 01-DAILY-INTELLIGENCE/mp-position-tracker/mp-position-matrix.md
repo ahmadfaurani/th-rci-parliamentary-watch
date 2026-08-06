@@ -1,7 +1,7 @@
 # MP Position Tracker — Tabung Haji RCI Parliamentary Impact
-**Last Updated:** 2026-08-06 13:14 MYT
+**Last Updated:** 2026-08-06 19:24 MYT
 **Collector:** CJ-TH-01
-**Total Unique Sitting MPs Tracked:** 11 (no new MPs added this cycle; no position changes — 3rd consecutive cycle with zero new sitting MP activity)
+**Total Unique Sitting MPs Tracked:** 11 (no new MPs added this cycle; no position changes — 4th consecutive cycle with zero new sitting MP activity)
 
 ---
 
@@ -110,3 +110,15 @@
 - **Search engine degradation — worst observed:** Nearly every web_search query returned the same generic results (Tabung Haji official site, Indonesian geometry, Maybank Tabung, unrelated international content). Site-specific searches returned empty. Only direct news site extraction was productive. FMT, Sinar Harian, Berita Harian pages returned 404/antibot errors.
 - **Story fade risk:** 3rd consecutive cycle with zero new MP activity is a significant intelligence signal. The RCI has fully faded from the news cycle 5 days before the debate. The Aug 9 MACC remand expiry and Aug 10 BN briefing are the last pre-debate triggers. If neither breaks the silence, the first new MP RCI statements since Aug 5 may come on the debate floor itself (Aug 11).
 - **Key upcoming triggers:** Aug 9 (MACC remand expiry — 2 days before debate), Aug 10 (BN briefing — 1 day before debate), Aug 11 (special sitting).
+
+---
+
+## Cycle Notes (Aug 6 19:24)
+- **No new sitting MP activity (4th consecutive cycle):** Zero new RCI statements from any of the 222 sitting MPs. Total tracked remains 11. No position changes. The RCI story has fully faded from the Aug 6 evening news cycle. All 16 search queries returned only existing Jul 29-Aug 5 MP statements or non-MP/civil-society content. This is the longest sustained silence pattern in the entire watch (Aug 4-6, now spanning 7 collection cycles).
+- **NEW context — Umno AGM postponed to Sept 9-12 (post-debate):** Announced by Umno Sec-Gen Asyraf Wajdi Dusuki (non-MP). Original schedule was "next week" (pre-debate). New dates: Sept 9-12 (AFTER the Aug 11 debate). SIGNIFICANCE: Umno MPs will enter the Aug 11 debate WITHOUT having had their party AGM RCI discussion. Umno's internal grassroots RCI reckoning now happens post-debate. The Umno AGM may become the post-debate internal accountability forum where Umno MPs face grassroots pressure for their debate performance.
+- **NEW context — IDEAS (non-MP think tank) Aug 4 statement:** Broadest systemic reform framing to date. 5 calls: publish implementation status of all 25 recommendations, amend TH Act, merit-based appointments for ALL statutory bodies, strengthen parliamentary oversight, independent investigation. IDEAS Pantau Kuasa research: 78% of chairperson positions across 135 federal statutory bodies have NO clearly defined qualification criteria. Frames TH failures as systemic, not isolated. No MP has echoed this systemic dimension. OUT OF SCOPE but significant as the broadest reform framing.
+- **NEW context — FMT RCI detail (still-employed officers):** RCI found 5 senior officers implicated in misconduct had penalties "watered down on appeal," all 5 still employed at TH or subsidiaries as of 2022. Bonuses 2-13 months (2010-2017), 2014 special bonus RM74M. No MP has demanded accountability for these specific still-employed officers — a new accountability dimension.
+- **BN Aug 10 briefing attendee list updated:** The Star (Aug 6) confirms SA Vigneswaran (MIC President, Senator, non-MP) among attendees alongside Mohamad Hasan (Rembau, MP), Wee Ka Siong (Ayer Hitam, MP). 8 anti-graft officers deployed to TH HQ. Special task force reviewing RCI findings for corruption, CBT, forgery, abuse of power, money laundering.
+- **Search engine degradation — worst observed (continuing):** 16 queries run. BM queries → Indonesian geometry/spam. English queries → TH official site, audio speakers, gaming spam. PAC-specific query returned zero useful results. Only direct news site extraction was productive. FMT, Sinar Harian, NST returned 404/antibot errors on some pages.
+- **Story fade risk (4th cycle):** 4th consecutive cycle with zero new MP activity. The RCI has fully faded from the news cycle 5 days before the debate. The Aug 9 MACC remand expiry, Aug 10 BN briefing, and Aug 11 debate are the only remaining triggers. If neither Aug 9 nor Aug 10 breaks the silence, the first new MP RCI statements since Aug 5 will come on the debate floor itself.
+- **Key upcoming triggers:** Aug 9 (MACC remand expiry — 2 days before debate), Aug 10 (BN briefing — 1 day before debate), Aug 11 (special sitting — debate day).
