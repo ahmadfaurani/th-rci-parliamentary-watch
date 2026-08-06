@@ -1,7 +1,7 @@
 # MP Position Tracker — Tabung Haji RCI Parliamentary Impact
-**Last Updated:** 2026-08-06 07:03 MYT
+**Last Updated:** 2026-08-06 13:14 MYT
 **Collector:** CJ-TH-01
-**Total Unique Sitting MPs Tracked:** 11 (no new MPs added this cycle; no position changes — 2nd consecutive cycle with zero new sitting MP activity)
+**Total Unique Sitting MPs Tracked:** 11 (no new MPs added this cycle; no position changes — 3rd consecutive cycle with zero new sitting MP activity)
 
 ---
 
@@ -98,3 +98,15 @@
 - **TI-Malaysia (non-MP):** Dr Raymon Ram demanded public status reporting, time-bound enforcement updates, raised 4-year delay question (report completed Aug 2022, declassified Jul 2026). Civil society, not parliamentary.
 - **Search engine degradation persists:** BM queries still dominated by Indonesian "Tabung" (geometry); English queries returning unrelated international results. Productive results via English Malaysia-specific queries and direct news site extraction.
 - **Key upcoming triggers:** Aug 9 (MACC remand expiry), Aug 10 (BN briefing), Aug 11 (special sitting).
+
+---
+
+## Cycle Notes (Aug 6 13:14)
+- **No new sitting MP activity (3rd consecutive cycle):** Zero new RCI statements from any of the 222 sitting MPs. Total tracked remains 11. No position changes. The RCI story has FULLY faded from the Aug 6 news cycle — The Star, Astro Awani, Malay Mail front pages lead with state poll results, crime, and other stories. No RCI stories involving MPs.
+- **Zahid Hamidi active Aug 6 but NOT on RCI:** DPM made multiple statements about "blue wave" to Putrajaya after BN wins in Johor and Negeri Sembilan state polls, state-level political rivalry not affecting federal stability, and ministry officers being "pressured" over BN-linked events. NONE addressed the RCI. His Aug 5 cross-era framing remains his most recent RCI position. RCI has taken backseat to state poll victory narrative.
+- **MACC enforcement continues — 6th cycle of zero MP reaction:** Astro Awani (Aug 6) confirms MACC questioned former CFO for 6+ hours over RM370M plantation share purchases (Section 23 MACC Act). Same case from previous cycles — re-reported. Total 5 arrests, ex-CEO/CFO questioned, PDRM 5 investigation papers. ZERO MP reaction across 6 cycles (Aug 4-6).
+- **35-40 MPs story recirculated:** Berita Harian Aug 6 edition (via PressReader) republishes "40 Ahli Parlimen sedia bahas laporan RCI" — same Fahmi Fadzil story from Aug 5. No new MP names. Participant identities remain unknown 5 days before debate.
+- **C4 Center (non-MP civil society):** Urged accountability reform between MACC and Customs. Not RCI-specific. No MP has echoed this framing.
+- **Search engine degradation — worst observed:** Nearly every web_search query returned the same generic results (Tabung Haji official site, Indonesian geometry, Maybank Tabung, unrelated international content). Site-specific searches returned empty. Only direct news site extraction was productive. FMT, Sinar Harian, Berita Harian pages returned 404/antibot errors.
+- **Story fade risk:** 3rd consecutive cycle with zero new MP activity is a significant intelligence signal. The RCI has fully faded from the news cycle 5 days before the debate. The Aug 9 MACC remand expiry and Aug 10 BN briefing are the last pre-debate triggers. If neither breaks the silence, the first new MP RCI statements since Aug 5 may come on the debate floor itself (Aug 11).
+- **Key upcoming triggers:** Aug 9 (MACC remand expiry — 2 days before debate), Aug 10 (BN briefing — 1 day before debate), Aug 11 (special sitting).
