@@ -1,35 +1,35 @@
 # TOP 3 PIR SUGGESTIONS FOR NEXT CYCLE (AUTO-APPROVED)
-**Generated:** 2026-08-07 01:54 MYT
-**Cycle:** CJ-TH-01 Pre-Debate Phase (4 days to Aug 11 sitting)
+**Generated:** 2026-08-08 00:34 MYT
+**Cycle:** CJ-TH-01 Pre-Debate Phase (3 days to Aug 11 sitting)
 **Director Approval:** AUTO-APPROVED — these queries are pre-approved for the next collection cycle
 
 These 3 suggestions refine collection on EXISTING core PIRs and emerging PIRs based on this cycle's findings.
 
 ---
 
-### Suggestion 1: Ismail Sabri Charging–RCI Connection — Does Any MP Link the Aug 7 MACC Charging of Ismail Sabri (Bera MP, UMNO/BN) to the Tabung Haji RCI Debate? (Refining PIR-TH-01, PIR-TH-10)
-**Rationale:** Ismail Sabri Yaakob (Bera MP, UMNO/BN, tracked MP #7) is being charged Aug 7 at KL Sessions Court under MACC Act. He previously made RCI statements Jul 29 ("Umno has nothing to hide"). His charging 4 days before the Aug 11 debate is the most significant contextual development since monitoring began. Whether any MP connects his case to the RCI — either to argue the system is working, to demand broader accountability, or to expose the irony of a pro-transparency MP facing corruption charges — will shape the debate's accountability dimension. This refines PIR-TH-01 (accountability demands) by testing whether the accountability target extends to a sitting MP, and PIR-TH-10 (narrative direction) by testing how MPs frame the charging in the RCI context.
+### Suggestion 1: TH Act Section 6(5) and Section 23 MACC Act — Will Any MP Use the Legal Accountability Barrier Analysis on the Debate Floor? (Refining PIR-TH-06, PIR-TH-02)
+**Rationale:** This cycle's FMT opinion piece (Walter Sandosam, Aug 7) identified the core legal barrier to TH accountability: TH Act 1995 Section 6(5) gives the minister power to terminate the TH chairman and CEO without reasons, and Section 23 MACC Act "abuse of power" charges face an uphill battle because the TH Act grants ministerial authority. "One cannot be prosecuted for being ill-advised, ill-informed or stupid! Malice or ill-intent has to be proven." 6 matters were referred to MACC with NO court charges from the AGC. This is the most detailed legislative-reform framing to date and directly addresses PIR-TH-06 (legislative amendments) and PIR-TH-02 (enforcement). No MP has yet referenced Section 6(5) or the Section 23 hurdle. The Aug 11 debate is the primary forum where an MP could use this analysis to argue that the TH Act itself shields wrongdoers and must be amended. This refines PIR-TH-06 by providing specific provisions to search for in MP statements, and PIR-TH-02 by connecting the enforcement gap (no court charges) to the legal barrier.
 **Search Queries:**
-1. "Ismail Sabri" dituduh OR dicaj SPRM MACC "Tabung Haji" OR RCI berkaitan Ahli Parlimen respons Ogos 2026
-2. Ismail Sabri Yaakob Bera MP MACC charge RCI Tabung Haji parliament debate MP reaction August 2026
-3. "Ismail Sabri" "tak ada apa untuk disembunyi" OR "nothing to hide" RCI Tabung Haji Ahli Parlimen Ogos 2026
+1. "Tabung Haji Act 1995" "Section 6" OR " Seksyen 6" Ahli Parlimen perbahasan RCI pindaan undang-undang Ogos 2026
+2. "Section 23" MACC OR SPRM "abuse of power" OR "kuasa" Tabung Haji RCI Ahli Parlimen perbahasan Ogos 2026
+3. "pindaan Akta Tabung Haji" OR "amend Tabung Haji Act" minister kuasa OR "ministerial powers" Ahli Parlimen RCI Ogos 2026
 
 ---
 
-### Suggestion 2: Confirmed RCI-Linked Enforcement MP Reaction — Does Any MP React to the First Explicit Media Confirmation That MACC Enforcement Follows RCI Findings? (Refining PIR-TH-02, PIR-TH-08)
-**Rationale:** Astro Awani (Aug 6) explicitly confirmed that MACC's questioning of the former TH CFO is "part of investigation into findings from the RCI on Tabung Haji." The RM370M plantation share purchases (Section 23 MACC Act) were flagged in the RCI report. This is the FIRST explicit media confirmation of RCI-to-enforcement linkage. Zero MP reaction across 7 cycles. The Aug 11 debate is the primary forum where MPs can reference this confirmation — either to argue "the system is working" or to demand broader enforcement. This refines PIR-TH-02 (enforcement pressure) by testing whether MPs react to enforcement that is already happening (not just demand it), and PIR-TH-08 (forensic audit demands) by testing whether MPs connect the MACC CFO investigation to their broader forensic audit demands.
+### Suggestion 2: Wong Chen Resignation and PH Debate Participation Numbers — How Many Government MPs Are Confirmed for the ~40-MP Debate? (Refining New E02)
+**Rationale:** Wong Chen (Subang MP, PKR, PH) wishes to resign (FMT, The Star, Aug 7). This is the third PH parliamentary departure (after Rafizi/Pandan vacated May 19 and Nurul Izzah stepping down as PKR deputy). Combined with Lim Guan Eng's "With friends like Umno, who needs enemies?" anti-UMNO rhetoric, PH's debate defense capacity is being eroded 3 days before the RCI debate. The ~40-MP debate format (confirmed by Fahmi Fadzil, Aug 5) requires sufficient government backbenchers to defend the RCI response. If PH can't field enough backbenchers, the opposition dominates the debate narrative. This refines the new E02 (PH parliamentary erosion and debate capacity) by testing whether the government's debate participation list is affected by the departures and internal tensions.
 **Search Queries:**
-1. MACC SPRM "RCI Tabung Haji" siasatan CFO pegawai Ahli Parlimen respons perbahasan Ogos 2026
-2. "MACC" "Tabung Haji RCI" enforcement confirmed MP reaction parliament August 2026
-3. "SPRM" "laporan RCI" Tabung Haji penguatkuasaan "sistem berfungsi" OR "system working" Ahli Parlimen Ogos 2026
+1. "Wong Chen" OR "Subang" letak jawatan parlimen Speaker Johari terima perbahasan RCI Ogos 2026
+2. "40 Ahli Parlimen" OR "40 MPs" perbahasan khas RCI Tabung Haji pengesahan peserta Ogos 11 2026
+3. PH backbencher OR "backbencher" perbahasan RCI Tabung Haji kerajaan bilangan Ahli Parlimen Ogos 2026
 
 ---
 
-### Suggestion 3: PKR Leadership Vacuum Impact on RCI Debate — Does Nurul Izzah's Departure as PKR Deputy President Affect PKR MP Behavior on the Aug 11 RCI Debate? (Refining PIR-TH-10)
-**Rationale:** Nurul Izzah Anwar (Permatang Pauh MP, PKR, PH, tracked MP #12) intends to step down as PKR Deputy President. PKR grants temporary leave after Aug 14 congress. This creates a leadership vacuum within the largest PH component party heading into the Aug 11 RCI debate and Aug 15-16 PKR National Congress. PKR is the largest PH component party with the most MPs. If PKR MPs are distracted or uncertain, the government faces less internal pressure on its RCI presentation. This refines PIR-TH-10 (party dynamics, internal fissures, narrative direction) by testing whether a specific internal leadership crisis affects MP debate behavior — a more granular dimension than the general "party position forming" that PIR-TH-10 currently tracks.
+### Suggestion 3: PH-Bersatu Tie-up in RCI Context — Does Any MP Connect the Coalition Realignment to RCI Debate Preparation? (Refining New E01, PIR-TH-10)
+**Rationale:** Amirudin Shari (Gombak MP, PKR, PH, Selangor MB) was "coy on possible Pakatan-Bersatu tie-up" (The Star, Aug 7). This is the first signal of possible cross-coalition realignment. If Bersatu aligns with PH, the 3 most RCI-active opposition MPs (Hamzah, Muhyiddin, Radzi) would move to the government side, transforming the RCI debate from opposition-scrutiny to intra-coalition accountability. PM Anwar's "party differences cannot hinder cooperation" (Aug 7) and Hamzah's "give-and-take" Melaka cooperation suggest cross-party cooperation is being explored. This refines the new E01 (PH-Bersatu realignment) by testing whether any MP explicitly connects the coalition realignment to RCI debate positioning. Also refines PIR-TH-10 (party/coalition positions, narrative direction) by testing whether the possible realignment affects RCI narrative framing.
 **Search Queries:**
-1. "Nurul Izzah" PKR Timbalan Presiden RCI Tabung Haji parlimen Ahli Parlimen Ogos 2026
-2. PKR leadership Nurul Izzah Tabung Haji RCI debate MP backbencher August 11 2026
-3. "Kongres PKR" Ogos 2026 RCI Tabung Haji agenda perbincangan Ahli Parlimen perbahasan
+1. "Pakatan Bersatu" OR "PH Bersatu" gabungan RCI Tabung Haji perbahasan Ahli Parlimen Ogos 2026
+2. "Amirudin" OR "Gombak" Bersatu PH RCI Tabung Haji perbahasan khas koordinasi Ahli Parlimen 2026
+3. Bersatu "kerajaan" OR "government side" RCI Tabung Haji perbahasan Ahli Parlimen penyelarasan Ogos 2026
 
 ---
