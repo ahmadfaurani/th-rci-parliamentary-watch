@@ -1,6 +1,6 @@
 {
   "workstream": "Tabung Haji RCI Parliamentary Impact Assessment",
-  "exported_at": "2026-08-07T03:38:19.367359Z",
+  "exported_at": "2026-08-08T03:07:15.082719Z",
   "repo": "ahmadfaurani/th-rci-parliamentary-watch",
   "workspace": "/home/p62operator/.openclaw/workspace-th-rci",
   "total_cronjobs": 2,
@@ -11,7 +11,7 @@
       "schedule": "every 360m",
       "deliver": "telegram",
       "model": "inherit (default)",
-      "provider": null,
+      "provider": "custom:ARAS",
       "enabled_toolsets": [
         "web",
         "terminal",
