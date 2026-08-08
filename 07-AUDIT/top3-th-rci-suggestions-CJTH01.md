@@ -1,5 +1,5 @@
 # TOP 3 PIR SUGGESTIONS FOR NEXT CYCLE (AUTO-APPROVED)
-**Generated:** 2026-08-08 00:34 MYT
+**Generated:** 2026-08-08 06:45 MYT
 **Cycle:** CJ-TH-01 Pre-Debate Phase (3 days to Aug 11 sitting)
 **Director Approval:** AUTO-APPROVED — these queries are pre-approved for the next collection cycle
 
@@ -7,29 +7,30 @@ These 3 suggestions refine collection on EXISTING core PIRs and emerging PIRs ba
 
 ---
 
-### Suggestion 1: TH Act Section 6(5) and Section 23 MACC Act — Will Any MP Use the Legal Accountability Barrier Analysis on the Debate Floor? (Refining PIR-TH-06, PIR-TH-02)
-**Rationale:** This cycle's FMT opinion piece (Walter Sandosam, Aug 7) identified the core legal barrier to TH accountability: TH Act 1995 Section 6(5) gives the minister power to terminate the TH chairman and CEO without reasons, and Section 23 MACC Act "abuse of power" charges face an uphill battle because the TH Act grants ministerial authority. "One cannot be prosecuted for being ill-advised, ill-informed or stupid! Malice or ill-intent has to be proven." 6 matters were referred to MACC with NO court charges from the AGC. This is the most detailed legislative-reform framing to date and directly addresses PIR-TH-06 (legislative amendments) and PIR-TH-02 (enforcement). No MP has yet referenced Section 6(5) or the Section 23 hurdle. The Aug 11 debate is the primary forum where an MP could use this analysis to argue that the TH Act itself shields wrongdoers and must be amended. This refines PIR-TH-06 by providing specific provisions to search for in MP statements, and PIR-TH-02 by connecting the enforcement gap (no court charges) to the legal barrier.
+### Suggestion 1: BN Briefing Content and Attendee RCI Positions — What Will BN MPs Learn at the August 10 WTCKL Briefing, and Will It Shape Their RCI Debate Contributions? (Refining PIR-TH-10, PIR-TH-E02)
+**Rationale:** The BN special RCI briefing is scheduled for Monday Aug 10, 5pm at WTCKL — ONE DAY before the RCI debate (malaysiagazette, Aug 5). Confirmed attendees include Mohamad Hasan (Rembau, UMNO, MP), Wee Ka Siong (Ayer Hitam, MCA, MP), Arthur Joseph Kurup (Pensiangan, PBS, MP), and SA Vigneswaran (MIC President, Senator, non-MP). The briefing is the last pre-debate coalition preparation event. Will BN MPs emerge with a unified RCI position? Will the briefing address the "75% implementation" claim, the 14 troubled investments, or the TH Act amendments? None of these BN MPs have made individual RCI statements. The briefing is their last chance to form a position before the debate floor. This refines PIR-TH-10 (party/coalition positions) by testing whether BN develops a unified RCI position at the briefing, and PIR-TH-E02 (government debate capacity) by testing whether BN MP participation is shaped by the briefing content. Note: the briefing is at 5pm — the SAME TIME as Wong Chen's Facebook statement (E01), creating a dual pre-debate media event.
+
 **Search Queries:**
-1. "Tabung Haji Act 1995" "Section 6" OR " Seksyen 6" Ahli Parlimen perbahasan RCI pindaan undang-undang Ogos 2026
-2. "Section 23" MACC OR SPRM "abuse of power" OR "kuasa" Tabung Haji RCI Ahli Parlimen perbahasan Ogos 2026
-3. "pindaan Akta Tabung Haji" OR "amend Tabung Haji Act" minister kuasa OR "ministerial powers" Ahli Parlimen RCI Ogos 2026
+1. "taklimat BN" OR "BN briefing" RCI Tabung Haji WTCKL Ogos 10 Ahli Parlimen posisi 2026
+2. "Mohamad Hasan" OR "Wee Ka Siong" OR "Arthur Joseph" RCI Tabung Haji perbahasan khas posisi Ogos 2026
+3. BN Ahli Parlimen RCI Tabung Haji persediaan perbahasan Ogos 10 11 2026
 
 ---
 
-### Suggestion 2: Wong Chen Resignation and PH Debate Participation Numbers — How Many Government MPs Are Confirmed for the ~40-MP Debate? (Refining New E02)
-**Rationale:** Wong Chen (Subang MP, PKR, PH) wishes to resign (FMT, The Star, Aug 7). This is the third PH parliamentary departure (after Rafizi/Pandan vacated May 19 and Nurul Izzah stepping down as PKR deputy). Combined with Lim Guan Eng's "With friends like Umno, who needs enemies?" anti-UMNO rhetoric, PH's debate defense capacity is being eroded 3 days before the RCI debate. The ~40-MP debate format (confirmed by Fahmi Fadzil, Aug 5) requires sufficient government backbenchers to defend the RCI response. If PH can't field enough backbenchers, the opposition dominates the debate narrative. This refines the new E02 (PH parliamentary erosion and debate capacity) by testing whether the government's debate participation list is affected by the departures and internal tensions.
+### Suggestion 2: MACC Charging Decision Before Aug 11 — Will the Ex-CFO/CEO Be Charged Before the RCI Debate, and Will Any MP React? (Refining PIR-TH-02, PIR-TH-08)
+**Rationale:** MACC has questioned the former CFO for four consecutive days (Aug 4-7, The Star, Aug 7). The investigation concerns RM370 million in plantation share acquisitions, Section 23 MACC Act (abuse of power). The MACC remand is set to expire Aug 9 — two days before the RCI debate. If MACC makes a charging decision before Aug 11, it creates a real-time enforcement development that any MP could reference on the debate floor. This would be the FIRST enforcement event that coincides with a parliamentary RCI forum. Zero MP reaction to enforcement across 8+ cycles (Aug 4-8) is the most significant sustained silence in the watch. A charging decision before the debate would test whether this silence breaks. This refines PIR-TH-02 (enforcement pressure) by testing whether the MACC charging decision triggers MP reaction, and PIR-TH-08 (forensic audit demand) by connecting the RM370M share case to the 14 troubled investments RCI recommendation.
+
 **Search Queries:**
-1. "Wong Chen" OR "Subang" letak jawatan parlimen Speaker Johari terima perbahasan RCI Ogos 2026
-2. "40 Ahli Parlimen" OR "40 MPs" perbahasan khas RCI Tabung Haji pengesahan peserta Ogos 11 2026
-3. PH backbencher OR "backbencher" perbahasan RCI Tabung Haji kerajaan bilangan Ahli Parlimen Ogos 2026
+1. MACC SPRM "CFO" OR "CEO" tuduhan OR charge RCI Tabung Haji RM370 juta Ogos 9 10 2026
+2. SPRM dakwaan OR charging decision Tabung Haji RCI RM370 million Ogos 2026 Ahli Parlimen
+3. MACC remand expiry Tabung Haji RCI CFO CEO plantation shares August 2026 parliament debate
 
 ---
 
-### Suggestion 3: PH-Bersatu Tie-up in RCI Context — Does Any MP Connect the Coalition Realignment to RCI Debate Preparation? (Refining New E01, PIR-TH-10)
-**Rationale:** Amirudin Shari (Gombak MP, PKR, PH, Selangor MB) was "coy on possible Pakatan-Bersatu tie-up" (The Star, Aug 7). This is the first signal of possible cross-coalition realignment. If Bersatu aligns with PH, the 3 most RCI-active opposition MPs (Hamzah, Muhyiddin, Radzi) would move to the government side, transforming the RCI debate from opposition-scrutiny to intra-coalition accountability. PM Anwar's "party differences cannot hinder cooperation" (Aug 7) and Hamzah's "give-and-take" Melaka cooperation suggest cross-party cooperation is being explored. This refines the new E01 (PH-Bersatu realignment) by testing whether any MP explicitly connects the coalition realignment to RCI debate positioning. Also refines PIR-TH-10 (party/coalition positions, narrative direction) by testing whether the possible realignment affects RCI narrative framing.
-**Search Queries:**
-1. "Pakatan Bersatu" OR "PH Bersatu" gabungan RCI Tabung Haji perbahasan Ahli Parlimen Ogos 2026
-2. "Amirudin" OR "Gombak" Bersatu PH RCI Tabung Haji perbahasan khas koordinasi Ahli Parlimen 2026
-3. Bersatu "kerajaan" OR "government side" RCI Tabung Haji perbahasan Ahli Parlimen penyelarasan Ogos 2026
+### Suggestion 3: Debate Participant List Identities — Which 35-40 MPs Will Actually Participate, and Will Dissenting PKR MPs Be Included or Excluded? (Refining PIR-TH-10, PIR-TH-E02, New E02)
+**Rationale:** Fahmi Fadzil (Lembah Pantai MP, PKR, PH) announced "up to 40 MPs" ready to debate (Aug 5), but the specific MP identities remain unknown 3 days before the debate. This is the most critical operational intelligence gap: who will actually speak? Will the three MyKhas-barred PKR MPs (Wong Chen P104, Rodziah Ismail P099, Lee Chean Chung P105) be included or excluded from the participant list? Will PAC Chairperson Mas Ermieyati Samsudin (Masjid Tanah, PAS/PN) participate? Will any GPS/GRS/WARISAN MP break the 10-cycle silence? Will Bersatu MPs (Hamzah, Muhyiddin, Radzi) participate as opposition or government-aligned (given the Bersatu-PN split)? The participant list determines the debate's political dynamics. This refines PIR-TH-10 (coalition positions) by testing which coalitions are represented, PIR-TH-E02 (debate capacity) by testing the actual participation numbers, and New E02 (MyKhas blocking) by testing whether barred MPs are included or excluded.
 
----
+**Search Queries:**
+1. "40 Ahli Parlimen" OR "35 Ahli Parlimen" OR "debate participant" RCI Tabung Haji senarai OR list pengesahan Ogos 11 2026
+2. "Rodziah Ismail" OR "Lee Chean Chung" OR "Wong Chen" perbahasan RCI Tabung Haji pengesahan peserta Ogos 2026
+3. Ahli Parlimen RCI Tabung Haji perbahasan khas senarai nama peserta Ogos 11 2026 parlimen
